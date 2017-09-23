@@ -1,0 +1,31 @@
+#activities a {
+    color: #A7A7A7;
+}
+
+#activities p, {
+    color: #B2B2B2;
+    
+}
+
+#activities h4 {
+    font-size: 16px;
+    color: #868585;
+    
+}
+#activities h1, {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+#activities h3, {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+#activities h1, #activities h3,{
+    letter-spacing: 3px;
+}
+
+#activities {
+    margin-top: 70px;
+}

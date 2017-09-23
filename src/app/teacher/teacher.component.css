@@ -1,0 +1,41 @@
+.teacher-card {
+    width: 100%;
+    position: relative;
+    height: 184px;
+}
+
+.teacher-card p {margin-bottom: 6px;}
+
+.teacher-card h5 {
+    font-size: 15px;
+}
+
+.teacher-card h4 {
+    font-size: 18px;
+}
+.block-icon i.fa {
+	width: 36px;
+	height: 36px;
+	padding-top: 8px;
+	cursor: pointer;
+}
+
+.block {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    background-color: inherit;
+    height: 100%;
+}
+
+.block-icon {
+    width: 10%;
+}
+
+.block-content {
+    width: 50%;
+}
+
+.block-images {
+    width: 40%;
+}

@@ -1,0 +1,27 @@
+#event h1 {
+    font-weight: 400;
+    font-size: 30px;
+}
+#event h3 {
+    margin: 20px 0;
+    font-size: 20px;
+}
+#event h1, #event h3 {
+    letter-spacing: 3px;
+}
+.card .date {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    font-size: 17px;
+    display: inline-block;
+}
+
+.card .date:hover,.card .date:active,.card .date:visited {
+    color: #ffffff;
+}
+.card .card-block {
+    min-height: 85px;
+    overflow: hidden;
+}

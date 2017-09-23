@@ -1,0 +1,11 @@
+.slide {
+    position: relative;
+    width: 100%;
+    max-height: 680px;
+}
+
+.slide img {
+	overflow: hidden;
+	width: 100%;
+	max-height: 680px;
+}

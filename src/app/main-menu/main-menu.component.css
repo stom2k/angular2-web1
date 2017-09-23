@@ -1,0 +1,46 @@
+.line2 li.nav-item a.navlink {
+    color: #E5E5E5;
+    
+    padding: 0 10px;
+    font-size: 13px;
+}
+
+.line2 li.nav-item.active a.navlink {
+    color: #9B9B9B;
+}
+
+a.navlink:after {
+    content: '\ea76';
+    font-family: 'fontello';
+    margin-left: 20px;
+    font-size: 5px;
+}
+
+.line2 li.nav-item {
+    padding: 8px;
+}
+
+.line1 .nav-item.nav-link {
+    color: #E5E6E5;
+    margin-bottom: 0;
+    font-size: 12px;
+    
+}
+
+.line1 .nav-item.nav-link:after {
+    content: '\f111';
+    font-family: FontAweome;
+    margin-left: 17px;
+    font-size: 5px;
+    vertical-align: middle;
+}
+
+.navbar.fixed-top .line2 {
+    background: #FFFFFF;
+    color: #D4D4D4;
+}
+
+.navbar.fixed-top .line1 {
+    background: #4D5056;
+    font-size: 14px;
+}

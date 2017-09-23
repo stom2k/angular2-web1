@@ -1,0 +1,8 @@
+#parall {
+	background: url('/assets/img/desk-color.jpg') 50% 0px / cover fixed;
+	height: 200px;
+}
+
+#parall .parall-height {
+    height: 100%;
+}
